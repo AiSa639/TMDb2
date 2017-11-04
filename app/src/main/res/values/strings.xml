@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">"TMDb "</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="films">Фильмы</string>
+    <string name="tv_series">Сериалы</string>
+    <string name="genre">Жанры</string>
+    <string name="title_activity_films">Films</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="category_popular">Популярные</string>
+    <string name="category_coming_soon">Скоро на экранах</string>
+    <string name="category_now_in_cinemas">Сейчас в кинотеатрах</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="crash_toast_text">Ooooops ! I crashed, but a report has been sent to my developer to help fix the issue !</string>
+
+</resources>
